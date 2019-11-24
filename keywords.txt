@@ -1,0 +1,39 @@
+IPGeolocation	KEYWORD1
+
+IPGeo	KEYWORD1
+
+
+IP	KEYWORD2
+hostname	KEYWORD2
+continent_code	KEYWORD2
+continent_name	KEYWORD2
+country_code2	KEYWORD2
+country_code3	KEYWORD2
+country_name	KEYWORD2
+country_capital	KEYWORD2
+state_prov	KEYWORD2
+district	KEYWORD2
+city	KEYWORD2
+zipcode	KEYWORD2
+latitude	KEYWORD2
+longitude	KEYWORD2
+geoname_id	KEYWORD2
+is_eu	KEYWORD2
+calling_code	KEYWORD2
+country_tld	KEYWORD2
+languages	KEYWORD2
+country_flag	KEYWORD2
+isp	KEYWORD2
+connection_type	KEYWORD2
+organization	KEYWORD2
+asn	KEYWORD2
+currency_name	KEYWORD2
+currency_code	KEYWORD2
+currency_symbol	KEYWORD2
+is_DST	KEYWORD2
+time_zone	KEYWORD2
+dst_offset	KEYWORD2
+UNIX_time	KEYWORD2
+
+key	KEYWORD2
+updateData	KEYWORD2
